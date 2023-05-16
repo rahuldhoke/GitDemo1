@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-07T16:10:07 IST" name="Surefire suite" finished-at="2023-05-07T16:10:08 IST" duration-ms="435">
+    <groups>
+    </groups>
+    <test started-at="2023-05-07T16:10:07 IST" name="Surefire test" finished-at="2023-05-07T16:10:08 IST" duration-ms="435">
+      <class name="MavenConcept.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:MavenConcept.SeleniumTest@50b5ac82]" started-at="2023-05-07T16:10:08 IST" name="BrowserAutomation" finished-at="2023-05-07T16:10:08 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elementUI()[pri:0, instance:MavenConcept.SeleniumTest@50b5ac82]" started-at="2023-05-07T16:10:08 IST" name="elementUI" finished-at="2023-05-07T16:10:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- MavenConcept.SeleniumTest -->
+      <class name="MavenConcept.RESTAPITest">
+        <test-method signature="rest1()[pri:0, instance:MavenConcept.RESTAPITest@223aa2f7]" started-at="2023-05-07T16:10:08 IST" name="rest1" finished-at="2023-05-07T16:10:08 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rest1 -->
+        <test-method signature="rest2()[pri:0, instance:MavenConcept.RESTAPITest@223aa2f7]" started-at="2023-05-07T16:10:08 IST" name="rest2" finished-at="2023-05-07T16:10:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rest2 -->
+      </class> <!-- MavenConcept.RESTAPITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
